@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CBJVLWNXFQSRJGQOX6ZSMTHBVKWG54M3FQ2Y4ELYBQG5FTZEQPQV5U25
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/05a11db9-c19d-41fc-89fa-f4d1176e11fb">
+
 
 # Decentralized Content Sharing Platform
 
